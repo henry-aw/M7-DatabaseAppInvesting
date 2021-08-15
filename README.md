@@ -1,5 +1,5 @@
 # *Module 7 Challenge*
-## Application: One-click service for propert buying/rental
+## Financial Database and Web Application for Passive Investing Analysis
 
 **Welcome to my Module 7 Challenge repository. Here, you can check out the financial database and web application I built using SQL, Python and the Voila library to analyze the performance of a hypothetical exchange-traded fund (ETF).**
 
@@ -12,14 +12,12 @@ This project explores Passive Investing: investing in a basket of assets called 
 
 ## Technologies & Usage
 This project leverages SQL, Python 3.7, and the Voila lobrary with the following requirements and dependencies:
-- import plotly.express as px
+- import numpy as np
 - import pandas as pd
-- import os
-- from pathlib import Path
-- from dotenv import load_dotenv
+- import hvplot.pandas
+- import sqlalchemy as sql
 
 ## Here are images of the Voila Website:
-
 ![ETF Screenshot0](https://user-images.githubusercontent.com/86025349/129489422-1cde6cd4-b25c-4c26-8c7b-84e2d5838b27.png)
 ![ETF Screenshot1](https://user-images.githubusercontent.com/86025349/129489425-4c74fbdf-a013-417d-9c60-c150bd66b6d0.png)
 ![ETF Screenshot2](https://user-images.githubusercontent.com/86025349/129489428-b4060e97-5dbd-4e85-8874-72e57d15907e.png)
